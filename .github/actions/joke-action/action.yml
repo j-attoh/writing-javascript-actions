@@ -3,7 +3,7 @@ name: "external API action"
 description: "use an exteral API to retrieve and display a joke"
 
 outputs:
-  joke_output:
+  joke-output:
     description: The resulting joke from icanhazdadjokes API
 
 runs:
